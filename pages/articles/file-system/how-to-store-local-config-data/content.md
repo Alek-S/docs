@@ -7,7 +7,7 @@ Let's take a look at a very simple (and contrived) example.  First, to save some
 
       var myOptions = {
         name: 'Avian',
-        dessert: 'cake'
+        dessert: 'cake',
         flavor: 'chocolate',
         beverage: 'coffee'
       };
